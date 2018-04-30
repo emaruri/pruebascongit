@@ -1,3 +1,4 @@
 print "hello word"
 edicion
-editado
+n=1
+asd
